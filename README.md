@@ -1,4 +1,4 @@
-# dfc
+# dfc -- ddstkm functional compiler
 
 ## 运行
 
