@@ -2,7 +2,7 @@
 
 ## 运行
 
-1、安装llvm
+1、安装llvm,yacc,lex
 
 2、编译
 
