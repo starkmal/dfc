@@ -36,3 +36,5 @@ parser.cpp
 tokens.cpp
 dfc
 test
+
+.vscode/*
