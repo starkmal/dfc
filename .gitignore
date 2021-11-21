@@ -30,3 +30,8 @@
 *.exe
 *.out
 *.app
+
+parser.hpp
+parser.cpp
+tokens.cpp
+dfc
